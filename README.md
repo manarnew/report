@@ -13,7 +13,7 @@ And the report and statsics is inside the dashboard file which extends the layou
 All this made by card   
 -4 the Sales Trend which show us Monthly sales overview   
 -5 the Purchases Trend which show us Monthly purchases overview   
-And this made by apexcharts which   
+And this made by apexcharts type line chart   
 In the Stock Report Controller there is the Eloquent method for   
 1- for the Calculate total stock using she sum method to sum the stock_quantity  
 2-  Calculate total sales using the sum method to sum the amount and the where method to check the type = sell  
